@@ -12,7 +12,7 @@ print(10//3)
 #계산의 우선순위 괄호안의 숫자를 먼저 계산
 print(2+2*2)
 print((2+2)*2)
-print('cheese'+'burger')
+print('cheese'+'burger') # 문자열과 문자열을 더할 수 있다. 
 #비교연산
 print(5>3)
 print(5<3)

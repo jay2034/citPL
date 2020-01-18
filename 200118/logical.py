@@ -1,0 +1,6 @@
+print(5>3 and not 6>8)
+print(5>1 and 3>1)
+print(3>1 or 4>9)
+print(5>3 and 3>2)
+print(2>6 and 4>5)
+print(not(7//5==2)or(900%10!=0))
