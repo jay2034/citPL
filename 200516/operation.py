@@ -1,0 +1,33 @@
+#산술연산
+print(3+2)
+print(5-1)
+print(4*3)
+print(12/6)
+print(10%3)
+print(4**3)
+
+#비교연산
+print(5==5)
+print(6>=5)
+print(7<5)
+print(5<=3)
+print(2>1)
+print(3!=3)
+
+print("apple"+"pie")
+print(2+2*2)
+print((2+2)*2)
+print(       ((3+5)/7-2)*8       )
+print( 3-(8-(5+7)*8)/5   )
+print("panguin"<"elephant")
+print("ant"<"elephant")
+print("Panguine"<"elephant")
+
+print(True and True)
+print(True and False)
+print(False and True)
+print(False and False)
+print(True or True)
+print(True or False)
+print(False or True)
+print(False or False)
